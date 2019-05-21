@@ -1,0 +1,9 @@
+D:\Universiteit\ITRW 316\Opdrag 2\Opdrag 2\bin\Debug\Opdrag 2.exe.config
+D:\Universiteit\ITRW 316\Opdrag 2\Opdrag 2\obj\Debug\Opdrag 2.csprojResolveAssemblyReference.cache
+D:\Universiteit\ITRW 316\Opdrag 2\Opdrag 2\obj\Debug\Opdrag_2.Form1.resources
+D:\Universiteit\ITRW 316\Opdrag 2\Opdrag 2\obj\Debug\Opdrag_2.Properties.Resources.resources
+D:\Universiteit\ITRW 316\Opdrag 2\Opdrag 2\obj\Debug\Opdrag 2.csproj.GenerateResource.Cache
+D:\Universiteit\ITRW 316\Opdrag 2\Opdrag 2\bin\Debug\Opdrag 2.exe
+D:\Universiteit\ITRW 316\Opdrag 2\Opdrag 2\bin\Debug\Opdrag 2.pdb
+D:\Universiteit\ITRW 316\Opdrag 2\Opdrag 2\obj\Debug\Opdrag 2.exe
+D:\Universiteit\ITRW 316\Opdrag 2\Opdrag 2\obj\Debug\Opdrag 2.pdb
